@@ -1,6 +1,6 @@
 - This is an automatic attendance system using face recognition.
-- Using this we can detect attendance automatically by capturing faces.I
-- t will give exact name which will be saved in the data, date and time of that day.
+- Using this we can detect attendance automatically by capturing faces.
+- It will give exact name which will be saved in the data, date and time of that day.
 - All details will be stored in csv files and every day attendace will be added into new a csv file.
   <br>
 - This is the interface of the project.
