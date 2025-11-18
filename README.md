@@ -1,4 +1,4 @@
-# 🏫 Automatic Attendance System using Face Recognition
+# 🏫 AI-Driven Automated Attendance System using Python and OpenCV
 
 An **intelligent attendance management system** that uses **face recognition** to automatically capture and record attendance in real time. Say goodbye to manual roll calls and spreadsheets!
 
